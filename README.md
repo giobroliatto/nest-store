@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/icon.svg" width="72" alt="nest-store logo" />
+
 # nest-store
 
 **E-commerce REST API built with NestJS, focused on modular architecture and declarative validation.**
