@@ -10,6 +10,8 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
+[![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green)](LICENSE)
+
 </div>
 
 [English](README.md) · **Português**
@@ -99,6 +101,12 @@ src/
     ├── product.module.ts
     └── product.repository.ts
 ```
+
+---
+
+## Licença
+
+[MIT](LICENSE)
 
 ---
 
